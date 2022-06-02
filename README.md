@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BENCHAREFAyoub
+- 👀 I’m interested in web developpement, image processing, remote sensing and automatisation using python.
+- 🌱 I’m currently learning flask, folium and geopandas
+- 💞️ I’m looking to collaborate on all projects related to the previous topics!
+- 📫 How to reach me : email me at a.bencharef@cartinpho.ma
